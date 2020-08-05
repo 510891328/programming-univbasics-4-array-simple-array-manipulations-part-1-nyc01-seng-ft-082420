@@ -23,5 +23,5 @@ end
 def shift_with_args
   2.times do
     array.shift
-  end
+
 end
